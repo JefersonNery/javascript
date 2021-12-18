@@ -1,0 +1,36 @@
+body{
+    background-color: #02028ab4;
+
+}
+header{
+    font-size: 1.3em;
+    color:#000000;
+    text-align: center;
+
+}
+section{
+    background: white;
+    border-radius: 60px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 2px 2px 5px 4px rgba(0, 0, 0, 0.336);
+}
+div{
+    text-align: center;
+    padding: 8px;
+    font-size: 2em;
+    font-style: oblique;
+
+}
+img{
+    height: 250px;
+    width: 300px;
+    border-radius: 50%;
+}
+footer{
+    color:white;
+    text-align: center;
+    font-style: italic;
+    font-size: 2em;
+}

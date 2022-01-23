@@ -19,6 +19,10 @@ section{
 div#res{
     text-align: center;
 }
+img{
+    width: 500px;
+    height: 600px;
+}
 footer{
     color:white;
     text-align: center;
